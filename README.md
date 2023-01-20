@@ -2,6 +2,8 @@
 
 Tech requirements - Docker, PHP 8.1.0
 
+This repository creates the backend for the application. I did begin using Inertia to handle the front end but aborted this due to an issue with dynamic content, the backend and frontend is now seporated.
+
 To run
 
 install dependancies - composer install
